@@ -1,4 +1,4 @@
-# Embedded Systems Synth
+# Embedded Systems Synthesizer
 Project for Embedded Systems subject based on a NUCLEO-F767ZI board.
 
 ## Project Information
